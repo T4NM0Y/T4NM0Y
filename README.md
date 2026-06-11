@@ -1,4 +1,4 @@
-## MD.Khairul Alam
+### MD.Khairul Alam
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/MD. Khairul Alam) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khairulalamtanmoy.kat@gmail.com) 
 
